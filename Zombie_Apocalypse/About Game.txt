@@ -1,0 +1,10 @@
+This is a game about a zombie apocalypse made by Ahnaf in Python 3.8 on Arch Linux
+First I imported random and time. Random is for making random choices and generating
+random strings and numbers
+In the beginning it asks your name.
+Then it tells you students got sick from eating the food at school and became zombies!
+In level one you have to kill a random number of zombies with a couple of weapons!
+Then in level 2 you have to guess a number between 1 and 2000
+In Level 3 there is not much
+In the end it just gives you a final score!
+I might add more detail later down the line.
